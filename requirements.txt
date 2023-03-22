@@ -1,0 +1,4 @@
+internetarchive==3.3.0
+requests==2.27.1
+supabase==1.0.2
+urllib3==1.26.8

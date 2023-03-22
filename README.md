@@ -5,6 +5,9 @@ Handles audio uploading to internet archive and updating of supabase tables with
 Clone this repo locally:
 `git clone https://github.com/kasey-mcfadden/audio-uploader.git`
 
+Install python dependencies:
+`pip install -r requirements.txt`
+
 Create a `.env` file in the same directory that looks like this:
 
 ```
