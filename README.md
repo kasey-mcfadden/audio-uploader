@@ -15,8 +15,10 @@ IA_EMAIL=placeholder
 IA_PASSWORD=placeholder
 S3_ACCESS_KEY=placeholder
 S3_SECRET=placeholder
-NEXT_PUBLIC_SUPABASE_URL=placeholder
-NEXT_PUBLIC_SUPABASE_ANON_KEY=placeholder
+SUPABASE_URL=placeholder
+SUPABASE_ANON_KEY=placeholder
+AZURE_RESOURCE_NAME=placeholder
+AZURE_SUBSCRIPTION_KEY=placeholder
 ```
 
 Replace with your values and you're good to go.
